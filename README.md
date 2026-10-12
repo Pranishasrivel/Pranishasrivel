@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Pranishasrivel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Pranishasrivel/Pranishasrivel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 I’m currently pursuing my M.Sc. in Computer Science at Trinity College for Women.
+- 🔭 I’m working on full-stack applications, data analytics, and cloud platforms (AWS, GCP, OCI).
+- 🌱 I’m currently learning advanced AI models, prompt engineering, and agentic workflows.
+- 💬 Ask me about Python, Java, C++, SQL, Streamlit, and web development.
+- 🎨 When I’m not coding, you can find me designing graphics, crocheting amigurumi, or exploring public speaking.
+- ⚡ Fun fact: I love combining my tech skills with creative design projects!
+- 📫 How to reach me:pranishasrivel@gmail.com/linkedin.com/in/pranisha-s-6a1542293
